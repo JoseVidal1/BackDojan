@@ -10,6 +10,7 @@ namespace BLL
     public class TokenService
     {
         private readonly IConfiguration _configuration;
+        private static readonly Encoding Utf8Encoding = Encoding.UTF8;
 
         public TokenService(IConfiguration configuration)
         {
@@ -18,21 +19,20 @@ namespace BLL
 
         public string GenerateToken(Usuario usuario)
         {
-            // Lee la clave desde la configuración (NO hardcodeada)
             var jwtKey = _configuration["Jwt:SecretKey"]
                 ?? throw new InvalidOperationException("JWT SecretKey no configurada");
 
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtKey));
+            var key = new SymmetricSecurityKey(Utf8Encoding.GetBytes(jwtKey));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
             var claims = new List<Claim>
-            {
-                new Claim(ClaimTypes.Name, usuario.UserName ?? ""),
-                new Claim(ClaimTypes.Role, usuario.Rol ?? "Usuario"),
-                new Claim(ClaimTypes.NameIdentifier, usuario.Cc),
-                new Claim("userId", usuario.Cc),
-                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
-            };
+        {
+            new Claim(ClaimTypes.Name, usuario.UserName ?? ""),
+            new Claim(ClaimTypes.Role, usuario.Rol ?? "Usuario"),
+            new Claim(ClaimTypes.NameIdentifier, usuario.Cc),
+            new Claim("userId", usuario.Cc),
+            new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
+        };
 
             var token = new JwtSecurityToken(
                 issuer: _configuration["Jwt:Issuer"],
@@ -53,7 +53,7 @@ namespace BLL
                 var jwtKey = _configuration["Jwt:SecretKey"]
                     ?? throw new InvalidOperationException("JWT SecretKey no configurada");
 
-                var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtKey));
+                var key = new SymmetricSecurityKey(Utf8Encoding.GetBytes(jwtKey));
                 var tokenHandler = new JwtSecurityTokenHandler();
 
                 var validationParameters = new TokenValidationParameters

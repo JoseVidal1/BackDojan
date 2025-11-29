@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\fabrica\\testapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\fabrica\\testapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dojanwonk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|solutionrelative:dojanwonk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dojanwonk\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -254,7 +254,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -274,20 +274,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\TokenService.cs",
               "RelativeDocumentMoniker": "BLL\\TokenService.cs",
               "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\TokenService.cs",
               "RelativeToolTip": "BLL\\TokenService.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T20:00:06.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\appsettings.json",
               "RelativeDocumentMoniker": "Dojanwonk\\appsettings.json",
@@ -295,12 +295,11 @@
               "RelativeToolTip": "Dojanwonk\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-26T21:31:32.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T21:31:32.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Program.cs",
               "RelativeDocumentMoniker": "Dojanwonk\\Program.cs",
@@ -308,12 +307,11 @@
               "RelativeToolTip": "Dojanwonk\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T22:52:45.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T22:52:45.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FakeJwtAuthHandler.cs",
               "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Autorizaci\u00F3n\\FakeJwtAuthHandler.cs",
               "RelativeDocumentMoniker": "Pruebas_Integracion\\Autorizaci\u00F3n\\FakeJwtAuthHandler.cs",
@@ -321,12 +319,11 @@
               "RelativeToolTip": "Pruebas_Integracion\\Autorizaci\u00F3n\\FakeJwtAuthHandler.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA5wAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T22:46:14.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T22:46:14.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TestApplicationFactory.cs",
               "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Fabrica\\TestApplicationFactory.cs",
               "RelativeDocumentMoniker": "Pruebas_Integracion\\Fabrica\\TestApplicationFactory.cs",
@@ -347,8 +344,7 @@
               "RelativeToolTip": "Dojanwonk\\Controllers\\ArticuloController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAUwBoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T02:53:17.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T02:53:17.391Z"
             },
             {
               "$type": "Document",
