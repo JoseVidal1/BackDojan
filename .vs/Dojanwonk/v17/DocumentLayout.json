@@ -1,0 +1,1006 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\fabrica\\testapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\fabrica\\testapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\autorizaci\u00F3n\\fakejwtauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\autorizaci\u00F3n\\fakejwtauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dojanwonk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|solutionrelative:dojanwonk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dojanwonk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|solutionrelative:dojanwonk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dojanwonk\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|solutionrelative:dojanwonk\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dojanwonk\\controllers\\examencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|solutionrelative:dojanwonk\\controllers\\examencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\servicearticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\servicearticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\dbarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\dbarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\modelos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\modelos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\modelos\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\modelos\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\modelos\\examen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\modelos\\examen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\dbestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\dbestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\idbestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\idbestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\serviceestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\serviceestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\iserviceestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\iserviceestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dojanwonk\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|solutionrelative:dojanwonk\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\integracion\\examenescreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\integracion\\examenescreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\integracion\\articuloscreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\integracion\\articuloscreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\integracion\\estudiantescreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\integracion\\estudiantescreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\integracion\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\integracion\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\integracion\\prestamoscreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\integracion\\prestamoscreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\integracion\\usuarioscreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\integracion\\usuarioscreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\modelos\\detalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\modelos\\detalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\modelos\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\modelos\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\serviceprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\serviceprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\serviceusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\serviceusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\iserviceexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\iserviceexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\serviceexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\serviceexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\dbgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\dbgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\iservicearticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\iservicearticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dojanwonk\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|solutionrelative:dojanwonk\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dojanwonk\\controllers\\rangocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|solutionrelative:dojanwonk\\controllers\\rangocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dojanwonk\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|solutionrelative:dojanwonk\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dojanwonk\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9194906-2B75-4C0B-990C-45424D84F5F6}|Dojanwonk\\Dojanwonk.csproj|solutionrelative:dojanwonk\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\servicerango.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\servicerango.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\iserviceusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\iserviceusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\notificacionescorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\notificacionescorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\servicepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\servicepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\iserviceprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\iserviceprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\iservicerango.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\iservicerango.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\bll\\iservicepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183BFCF2-F057-467E-85E1-F8148B4C17C0}|BLL\\BLL.csproj|solutionrelative:bll\\iservicepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\idbarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\idbarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\dbpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\dbpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\dbexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\dbexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\idbexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\idbexamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\idbpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\idbpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\dbprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\dbprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\idbprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\idbprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\dbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\dbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\idbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\idbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\idbrango.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\idbrango.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\dbrango.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\dbrango.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\idbgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\idbgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6F5976-7B7B-413E-A799-202662F21A7E}|DTOS\\DTOS.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6F5976-7B7B-413E-A799-202662F21A7E}|DTOS\\DTOS.csproj|solutionrelative:dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\dal\\modelos\\dbdojankwoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CFD6A5-4AE9-4FBD-A166-B0F718E24541}|DAL\\DAL.csproj|solutionrelative:dal\\modelos\\dbdojankwoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\unitarias\\testprestamounitario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\unitarias\\testprestamounitario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\unitarias\\testestudianteunitario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\unitarias\\testestudianteunitario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|c:\\users\\home\\onedrive\\escritorio\\software\\testr\\dojanwonkbackend-master\\pruebas_integracion\\unitarias\\testloginunitario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2C425-27BB-40A8-90E2-2F62A0D633E8}|Pruebas_Integracion\\Pruebas.csproj|solutionrelative:pruebas_integracion\\unitarias\\testloginunitario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBEstudiante.cs",
+              "RelativeDocumentMoniker": "DAL\\DBEstudiante.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBEstudiante.cs",
+              "RelativeToolTip": "DAL\\DBEstudiante.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:30:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\TokenService.cs",
+              "RelativeDocumentMoniker": "BLL\\TokenService.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\TokenService.cs",
+              "RelativeToolTip": "BLL\\TokenService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:00:06.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\appsettings.json",
+              "RelativeDocumentMoniker": "Dojanwonk\\appsettings.json",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\appsettings.json",
+              "RelativeToolTip": "Dojanwonk\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T21:31:32.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Program.cs",
+              "RelativeDocumentMoniker": "Dojanwonk\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Program.cs",
+              "RelativeToolTip": "Dojanwonk\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:52:45.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FakeJwtAuthHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Autorizaci\u00F3n\\FakeJwtAuthHandler.cs",
+              "RelativeDocumentMoniker": "Pruebas_Integracion\\Autorizaci\u00F3n\\FakeJwtAuthHandler.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Autorizaci\u00F3n\\FakeJwtAuthHandler.cs",
+              "RelativeToolTip": "Pruebas_Integracion\\Autorizaci\u00F3n\\FakeJwtAuthHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:46:14.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Fabrica\\TestApplicationFactory.cs",
+              "RelativeDocumentMoniker": "Pruebas_Integracion\\Fabrica\\TestApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Fabrica\\TestApplicationFactory.cs",
+              "RelativeToolTip": "Pruebas_Integracion\\Fabrica\\TestApplicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:49:52.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "Dojanwonk\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "Dojanwonk\\Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:53:17.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServiceArticulo.cs",
+              "RelativeDocumentMoniker": "BLL\\ServiceArticulo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServiceArticulo.cs",
+              "RelativeToolTip": "BLL\\ServiceArticulo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:58:19.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExamenController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\ExamenController.cs",
+              "RelativeDocumentMoniker": "Dojanwonk\\Controllers\\ExamenController.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\ExamenController.cs",
+              "RelativeToolTip": "Dojanwonk\\Controllers\\ExamenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:58:24.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBArticulo.cs",
+              "RelativeDocumentMoniker": "DAL\\DBArticulo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBArticulo.cs",
+              "RelativeToolTip": "DAL\\DBArticulo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAASwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:04:08.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Grupo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Grupo.cs",
+              "RelativeDocumentMoniker": "DAL\\Modelos\\Grupo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Grupo.cs",
+              "RelativeToolTip": "DAL\\Modelos\\Grupo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:33:20.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Estudiante.cs",
+              "RelativeDocumentMoniker": "DAL\\Modelos\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Estudiante.cs",
+              "RelativeToolTip": "DAL\\Modelos\\Estudiante.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAtwCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:49:59.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Examen.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Examen.cs",
+              "RelativeDocumentMoniker": "DAL\\Modelos\\Examen.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Examen.cs",
+              "RelativeToolTip": "DAL\\Modelos\\Examen.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA0wB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:58:04.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDBEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBEstudiante.cs",
+              "RelativeDocumentMoniker": "DAL\\IDBEstudiante.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBEstudiante.cs",
+              "RelativeToolTip": "DAL\\IDBEstudiante.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:30:05.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServiceEstudiante.cs",
+              "RelativeDocumentMoniker": "BLL\\ServiceEstudiante.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServiceEstudiante.cs",
+              "RelativeToolTip": "BLL\\ServiceEstudiante.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwD4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:32:18.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IServiceEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServiceEstudiante.cs",
+              "RelativeDocumentMoniker": "BLL\\IServiceEstudiante.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServiceEstudiante.cs",
+              "RelativeToolTip": "BLL\\IServiceEstudiante.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:06:51.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EstudianteController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\EstudianteController.cs",
+              "RelativeDocumentMoniker": "Dojanwonk\\Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\EstudianteController.cs",
+              "RelativeToolTip": "Dojanwonk\\Controllers\\EstudianteController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:50:24.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExamenesCreateTests.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\ExamenesCreateTests.cs",
+              "RelativeDocumentMoniker": "Pruebas_Integracion\\Integracion\\ExamenesCreateTests.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\ExamenesCreateTests.cs",
+              "RelativeToolTip": "Pruebas_Integracion\\Integracion\\ExamenesCreateTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:59:08.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EstudiantesCreateTests.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\EstudiantesCreateTests.cs",
+              "RelativeDocumentMoniker": "Pruebas_Integracion\\Integracion\\EstudiantesCreateTests.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\EstudiantesCreateTests.cs",
+              "RelativeToolTip": "Pruebas_Integracion\\Integracion\\EstudiantesCreateTests.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:52:51.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\LoginTests.cs",
+              "RelativeDocumentMoniker": "Pruebas_Integracion\\Integracion\\LoginTests.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\LoginTests.cs",
+              "RelativeToolTip": "Pruebas_Integracion\\Integracion\\LoginTests.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:06:22.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PrestamosCreateTests.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\PrestamosCreateTests.cs",
+              "RelativeDocumentMoniker": "Pruebas_Integracion\\Integracion\\PrestamosCreateTests.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\PrestamosCreateTests.cs",
+              "RelativeToolTip": "Pruebas_Integracion\\Integracion\\PrestamosCreateTests.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAwwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:29:41.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuariosCreateTests.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\UsuariosCreateTests.cs",
+              "RelativeDocumentMoniker": "Pruebas_Integracion\\Integracion\\UsuariosCreateTests.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\UsuariosCreateTests.cs",
+              "RelativeToolTip": "Pruebas_Integracion\\Integracion\\UsuariosCreateTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:51:54.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArticulosCreateTests.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\ArticulosCreateTests.cs",
+              "RelativeDocumentMoniker": "Pruebas_Integracion\\Integracion\\ArticulosCreateTests.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Integracion\\ArticulosCreateTests.cs",
+              "RelativeToolTip": "Pruebas_Integracion\\Integracion\\ArticulosCreateTests.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAIwKAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:55:09.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TestPrestamoUnitario.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Unitarias\\TestPrestamoUnitario.cs",
+              "RelativeDocumentMoniker": "Pruebas_Integracion\\Unitarias\\TestPrestamoUnitario.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Unitarias\\TestPrestamoUnitario.cs",
+              "RelativeToolTip": "Pruebas_Integracion\\Unitarias\\TestPrestamoUnitario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T03:11:01.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "TestEstudianteUnitario.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Unitarias\\TestEstudianteUnitario.cs",
+              "RelativeDocumentMoniker": "Pruebas_Integracion\\Unitarias\\TestEstudianteUnitario.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Unitarias\\TestEstudianteUnitario.cs",
+              "RelativeToolTip": "Pruebas_Integracion\\Unitarias\\TestEstudianteUnitario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:42:38.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TestLoginUnitario.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Unitarias\\TestLoginUnitario.cs",
+              "RelativeDocumentMoniker": "Pruebas_Integracion\\Unitarias\\TestLoginUnitario.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Pruebas_Integracion\\Unitarias\\TestLoginUnitario.cs",
+              "RelativeToolTip": "Pruebas_Integracion\\Unitarias\\TestLoginUnitario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T03:00:33.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Prestamo.cs",
+              "RelativeDocumentMoniker": "DAL\\Modelos\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Prestamo.cs",
+              "RelativeToolTip": "DAL\\Modelos\\Prestamo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:17:17.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ServicePrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServicePrestamo.cs",
+              "RelativeDocumentMoniker": "BLL\\ServicePrestamo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServicePrestamo.cs",
+              "RelativeToolTip": "BLL\\ServicePrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:59:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DetallePrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\DetallePrestamo.cs",
+              "RelativeDocumentMoniker": "DAL\\Modelos\\DetallePrestamo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\DetallePrestamo.cs",
+              "RelativeToolTip": "DAL\\Modelos\\DetallePrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:24:59.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Articulo.cs",
+              "RelativeDocumentMoniker": "DAL\\Modelos\\Articulo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Articulo.cs",
+              "RelativeToolTip": "DAL\\Modelos\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:16:58.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServiceUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServiceUsuario.cs",
+              "RelativeDocumentMoniker": "BLL\\ServiceUsuario.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServiceUsuario.cs",
+              "RelativeToolTip": "BLL\\ServiceUsuario.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:59:51.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IServiceExamen.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServiceExamen.cs",
+              "RelativeDocumentMoniker": "BLL\\IServiceExamen.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServiceExamen.cs",
+              "RelativeToolTip": "BLL\\IServiceExamen.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:08:31.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServiceExamen.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServiceExamen.cs",
+              "RelativeDocumentMoniker": "BLL\\ServiceExamen.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServiceExamen.cs",
+              "RelativeToolTip": "BLL\\ServiceExamen.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:01:15.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DBGrupo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBGrupo.cs",
+              "RelativeDocumentMoniker": "DAL\\DBGrupo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBGrupo.cs",
+              "RelativeToolTip": "DAL\\DBGrupo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvwoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:26:36.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RangoController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\RangoController.cs",
+              "RelativeDocumentMoniker": "Dojanwonk\\Controllers\\RangoController.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\RangoController.cs",
+              "RelativeToolTip": "Dojanwonk\\Controllers\\RangoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:16:31.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IServiceArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServiceArticulo.cs",
+              "RelativeDocumentMoniker": "BLL\\IServiceArticulo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServiceArticulo.cs",
+              "RelativeToolTip": "BLL\\IServiceArticulo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:05:19.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Dojanwonk\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Dojanwonk\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:35:45.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "Dojanwonk\\Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "Dojanwonk\\Controllers\\PagoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:16:16.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceRango.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServiceRango.cs",
+              "RelativeDocumentMoniker": "BLL\\ServiceRango.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServiceRango.cs",
+              "RelativeToolTip": "BLL\\ServiceRango.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:59:39.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\PrestamoController.cs",
+              "RelativeDocumentMoniker": "Dojanwonk\\Controllers\\PrestamoController.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\Dojanwonk\\Controllers\\PrestamoController.cs",
+              "RelativeToolTip": "Dojanwonk\\Controllers\\PrestamoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T02:17:32.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IServiceUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServiceUsuario.cs",
+              "RelativeDocumentMoniker": "BLL\\IServiceUsuario.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServiceUsuario.cs",
+              "RelativeToolTip": "BLL\\IServiceUsuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:06:39.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NotificacionesCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\NotificacionesCorreo.cs",
+              "RelativeDocumentMoniker": "BLL\\NotificacionesCorreo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\NotificacionesCorreo.cs",
+              "RelativeToolTip": "BLL\\NotificacionesCorreo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:58:14.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ServicePago.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServicePago.cs",
+              "RelativeDocumentMoniker": "BLL\\ServicePago.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\ServicePago.cs",
+              "RelativeToolTip": "BLL\\ServicePago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:59:12.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IServicePrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServicePrestamo.cs",
+              "RelativeDocumentMoniker": "BLL\\IServicePrestamo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServicePrestamo.cs",
+              "RelativeToolTip": "BLL\\IServicePrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:13:44.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IServiceRango.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServiceRango.cs",
+              "RelativeDocumentMoniker": "BLL\\IServiceRango.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServiceRango.cs",
+              "RelativeToolTip": "BLL\\IServiceRango.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:08:09.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IServicePago.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServicePago.cs",
+              "RelativeDocumentMoniker": "BLL\\IServicePago.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\BLL\\IServicePago.cs",
+              "RelativeToolTip": "BLL\\IServicePago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:10:57.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IDBArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBArticulo.cs",
+              "RelativeDocumentMoniker": "DAL\\IDBArticulo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBArticulo.cs",
+              "RelativeToolTip": "DAL\\IDBArticulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:54:24.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DBPago.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBPago.cs",
+              "RelativeDocumentMoniker": "DAL\\DBPago.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBPago.cs",
+              "RelativeToolTip": "DAL\\DBPago.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vwoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:52:50.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IDBExamen.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBExamen.cs",
+              "RelativeDocumentMoniker": "DAL\\IDBExamen.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBExamen.cs",
+              "RelativeToolTip": "DAL\\IDBExamen.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:56:25.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IDBPago.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBPago.cs",
+              "RelativeDocumentMoniker": "DAL\\IDBPago.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBPago.cs",
+              "RelativeToolTip": "DAL\\IDBPago.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:52:36.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IDBPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBPrestamo.cs",
+              "RelativeDocumentMoniker": "DAL\\IDBPrestamo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBPrestamo.cs",
+              "RelativeToolTip": "DAL\\IDBPrestamo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:50:39.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DBPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBPrestamo.cs",
+              "RelativeDocumentMoniker": "DAL\\DBPrestamo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBPrestamo.cs",
+              "RelativeToolTip": "DAL\\DBPrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:50:10.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DBExamen.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBExamen.cs",
+              "RelativeDocumentMoniker": "DAL\\DBExamen.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBExamen.cs",
+              "RelativeToolTip": "DAL\\DBExamen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:31:28.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DBUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBUsuario.cs",
+              "RelativeDocumentMoniker": "DAL\\DBUsuario.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBUsuario.cs",
+              "RelativeToolTip": "DAL\\DBUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:46:51.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IDBUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBUsuario.cs",
+              "RelativeDocumentMoniker": "DAL\\IDBUsuario.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBUsuario.cs",
+              "RelativeToolTip": "DAL\\IDBUsuario.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:46:41.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IDBRango.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBRango.cs",
+              "RelativeDocumentMoniker": "DAL\\IDBRango.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBRango.cs",
+              "RelativeToolTip": "DAL\\IDBRango.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:28:45.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DBRango.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBRango.cs",
+              "RelativeDocumentMoniker": "DAL\\DBRango.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\DBRango.cs",
+              "RelativeToolTip": "DAL\\DBRango.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:27:30.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IDBGrupo.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBGrupo.cs",
+              "RelativeDocumentMoniker": "DAL\\IDBGrupo.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\IDBGrupo.cs",
+              "RelativeToolTip": "DAL\\IDBGrupo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:26:23.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DTOS\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "DTOS\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DTOS\\UsuarioDTO.cs",
+              "RelativeToolTip": "DTOS\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:26:53.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "DAL\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "DAL\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:28:34.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DbDojankwonContext.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\DbDojankwonContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Modelos\\DbDojankwonContext.cs",
+              "ToolTip": "C:\\Users\\HOME\\OneDrive\\Escritorio\\Software\\Testr\\DojanwonkBackend-master\\DAL\\Modelos\\DbDojankwonContext.cs",
+              "RelativeToolTip": "DAL\\Modelos\\DbDojankwonContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:03:51.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@Dojanwonk_HostAddress = http://localhost:5234
+
+GET {{Dojanwonk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
